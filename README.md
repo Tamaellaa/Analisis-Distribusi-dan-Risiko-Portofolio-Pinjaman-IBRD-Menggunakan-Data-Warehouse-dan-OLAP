@@ -33,3 +33,5 @@ Repository ini berisi kode program untuk analisis distribusi dan risiko portofol
 
 Kegunaan
 Proyek ini dapat digunakan sebagai referensi implementasi Data Warehouse end-to-end, pembelajaran konsep ETL dan OLAP, serta dikembangkan lebih lanjut untuk sistem monitoring risiko portofolio pinjaman berbasis data historis.
+
+World Bank Group. (2024). IBRD statement of loans and guarantees historical data [Dataset]. World Bank Finances One. https://financesone.worldbank.org/ibrd-statement-of-loans-and-guarantees-historical-data/DS00975 
