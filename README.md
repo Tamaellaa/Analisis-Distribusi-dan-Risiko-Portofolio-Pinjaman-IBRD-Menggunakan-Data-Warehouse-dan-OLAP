@@ -1,0 +1,2 @@
+# Analisis-Distribusi-dan-Risiko-Portofolio-Pinjaman-IBRD-Menggunakan-Data-Warehouse-dan-OLAP
+Repository ini berisi kode program untuk analisis distribusi dan risiko portofolio pinjaman IBRD (International Bank for Reconstruction and Development) menggunakan arsitektur Data Warehouse dan OLAP. Proyek ini mencakup pipeline ETL end-to-end mulai dari akuisisi data periodik, transformasi, hingga analisis multidimensi berbasis star schema.
